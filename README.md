@@ -13,7 +13,7 @@ Github pages - https://realatharv.github.io/atharv
 
 [Twitter](https://twitter.com/realatharv)
 
-[Reddit](https://reddit.com/realatharv)
+[Reddit](https://reddit.com/u/realatharv)
 
 [Connect with me on Discord](https://bit.ly/dcatharv)
 
