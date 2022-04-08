@@ -1,10 +1,20 @@
 # Portfolio Website
 
-Website will be uploaded by 19th May 2022
+Website will be uploaded by 19th May 2022.
 right now, it just has a timer.
 
-https://atharv.pages.dev
+# Website links
+Cloudflare pages - https://atharv.pages.dev
 
+Github pages - https://realatharv.github.io/atharv
 
+# Checkout my Socials
+[LinkedIn](https://linkedin.in/in/realatharv)
 
-You can also checkout my Blog [here](https://realatharv.blogspot.com).
+[Twitter](https://twitter.com/realatharv)
+
+[Connect with me on Discord](https://bit.ly/dcatharv)
+
+[Collect my virtual card on Wun.vc](https://wun.vc/id/atharv)
+
+[Checkout my Blog here](https://realatharv.blogspot.com)
