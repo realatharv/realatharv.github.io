@@ -1,30 +1,31 @@
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Apr 30, 2022 15:37:25").getTime();
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Coming Soon</title>
+<meta name="Description" content="A javascript countdown clock or timer with beautiful HTML and CSS styling that is simple to use in any project or on any website .">
+<meta name="Keywords" content="javascript, js, countdown, clock, timer, css, html, website, design, beautiful timer, countdown clock, countdown timer, javascript timer, javascript countdown clock, javascript countdown timer">
 
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
-  }
-}, 1000);
-</script>
+<link rel="stylesheet" type="text/css" href="timer.css">
+</head>
+	
+<body>
+	<div class="display">
+		<div id="clock" class="clock">
+			<h1 class="event_title">Coming In</h1>
+			<div id="numbers">
+				<span class="days"></span>
+				<span class="hours"></span>
+				<span class="minutes"></span>
+				<span class="seconds"></span>
+			</div>
+			<div id="units">
+				<span>Days</span>
+				<span>Hours</span>
+				<span>Minutes</span>
+				<span>Seconds</span>
+			</div>
+		</div>
+	<script src="timer.js"></script>
+</body>
+</html>
