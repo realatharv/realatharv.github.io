@@ -13,7 +13,10 @@ Github pages - https://realatharv.github.io/atharv
 
 [Twitter](https://twitter.com/realatharv)
 
+[Reddit](https://reddit.com/realatharv)
+
 [Connect with me on Discord](https://bit.ly/dcatharv)
+
 
 [Collect my virtual card on Wun.vc](https://wun.vc/id/atharv)
 
