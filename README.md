@@ -20,4 +20,4 @@ Github pages - https://realatharv.github.io/atharv
 
 [Collect my virtual card on Wun.vc](https://wun.vc/id/atharv)
 
-[Checkout my Blog here](https://realatharv.blogspot.com)
+[Checkout my Blog ](https://realatharv.blogspot.com)
