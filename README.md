@@ -3,10 +3,10 @@
 Website will be uploaded by 19th May 2022.
 right now, it just has a timer.
 
-# Website links
-Cloudflare pages - https://atharv.pages.dev
+# Website link  
 
-Github pages - https://realatharv.github.io/atharv
+[Here](https://atharv.is-a.dev)
+
 
 # Checkout my Socials
 [LinkedIn](https://linkedin.in/in/realatharv)
